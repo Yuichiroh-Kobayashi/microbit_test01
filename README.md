@@ -1,5 +1,5 @@
 
-> このページを開く [https://yuichiroh-kobayashi.github.io/microbit_test01/](https://yuichiroh-kobayashi.github.io/microbit_test01/)
+> このページを開く [https://scramble-robot.github.io/microbit_test01/](https://scramble-robot.github.io/microbit_test01/)
 
 ## 拡張機能として使用
 
@@ -8,22 +8,22 @@
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **新しいプロジェクト** をクリックしてください
 * ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/yuichiroh-kobayashi/microbit_test01** を検索してインポートします。
+* **https://github.com/scramble-robot/microbit_test01** を検索してインポートします。
 
-## このプロジェクトを編集します ![Build status badge](https://github.com/yuichiroh-kobayashi/microbit_test01/workflows/MakeCode/badge.svg)
+## このプロジェクトを編集します ![Build status badge](https://github.com/scramble-robot/microbit_test01/workflows/MakeCode/badge.svg)
 
 MakeCode でこのリポジトリを編集します。
 
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/yuichiroh-kobayashi/microbit_test01** を貼り付けてインポートをクリックしてください
+* **https://github.com/scramble-robot/microbit_test01** を貼り付けてインポートをクリックしてください
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/yuichiroh-kobayashi/microbit_test01/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/scramble-robot/microbit_test01/raw/master/.github/makecode/blocks.png)
 
 #### メタデータ (検索、レンダリングに使用)
 
